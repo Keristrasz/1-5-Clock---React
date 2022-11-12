@@ -1,0 +1,39 @@
+body {
+background: rgb(255,253,80);
+background: linear-gradient(90deg, rgba(255,253,80,0.4) 5%, rgba(194,53,96,0.4) 41%, rgba(0,212,255,0.4) 100%);
+text-align: center;
+
+font-size: 20px;
+
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#lengths {
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.icon {
+  font-size: 3em;
+  cursor: pointer;
+}
+
+.icon-sm {
+  font-size: 2em;
+  cursor: pointer;
+}
+
+#session-length, #break-length {
+  display: inline-block
+}
