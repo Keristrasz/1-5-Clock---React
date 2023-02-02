@@ -1,6 +1,6 @@
-# Basic 25+5 Clock in React on Replit 
+# Basic 1+5 Clock in React on Replit 
 
-25 + 5 Clock, for setting break/session length with sound (beep), when timer turns to 0. Set the timers on 1 minute and try it out!
+1+5 Clock, for setting break/session length with sound (beep), when timer turns to 0. Set the timers on 1 minute and try it out!
 
 ## You can run this app (or check the code) on https://replit.com/@KarelJek/25-5-Clock-React#src/App.tsx
 
